@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FormInput</string>
+    <string name="nama">Nama</string>
+    <string name="nama_panggilan">Nama panggilan</string>
+    <string name="usia">Usia</string>
+    <string name="jenis_kelamin">Jenis kelamin</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="simpan">simpan</string>
+    <string name="titik">:</string>
+</resources>
